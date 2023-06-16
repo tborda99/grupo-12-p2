@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/grupo-12-p2.iml" filepath="$PROJECT_DIR$/.idea/grupo-12-p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo-12-p2-main/grupo-12-p2-main.iml" filepath="$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo-12-p2-main/grupo-12-p2-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo-12-p2-obligatorio_-main.iml" filepath="$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo-12-p2-obligatorio_-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo12-p2-tads/grupo12-p2-tads.iml" filepath="$PROJECT_DIR$/grupo-12-p2-obligatorio_-main/grupo12-p2-tads/grupo12-p2-tads.iml" />
+    </modules>
+  </component>
+</project>
